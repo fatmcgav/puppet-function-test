@@ -1,0 +1,4 @@
+---
+fixtures:
+  symlinks:
+    function-test: "#{source_dir}"
